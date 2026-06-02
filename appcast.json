@@ -1,8 +1,9 @@
 {
-  "version": "2.7.0",
-  "date": "2026-06-01",
+  "version": "2.8.0",
+  "date": "2026-06-02",
   "critical": false,
   "notes": [
+    "\ud83d\udc76 RaiseThatBaby 2.8.0 \u2014 Siri/Shortcuts (App Intents), Spotlight search across all data, deep OS integration",
     "\ud83d\udc76 RaiseThatBaby 2.7.0 \u2014 More content added: expanded database across all categories",
     "\ud83d\udc76 RaiseThatBaby 2.6.0 \u2014 Liquid Glass (Metal 4) standardized + Mac menu bar",
     "\ud83d\udc76 RaiseThatBaby 2.5.0 \u2014 NEW Mac menu bar: Go, Theme & app-specific menus with keyboard shortcuts",
